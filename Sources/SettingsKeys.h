@@ -24,8 +24,6 @@ NSArray *NSUserDefaultsCopyKeys = @[
     // YTABConfig cannot be reasonably exported using this method
     // YTHoldForSpeed will be removed in v5
     // YouTube Plus / YTLite cannot be exported using this method
-    // YTUHD - https://github.com/PoomSmart/YTUHD/blob/master/Header.h
-    @"EnableVP9", @"AllVP9",
     // Useful YouTube Keys
     @"inline_muted_playback_enabled",
 ];

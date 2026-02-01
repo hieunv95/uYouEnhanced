@@ -254,40 +254,38 @@ And thanks to the developers qnblackcat, PoomSmart & other  allowing me to expan
 
 3. **YouPiP:** enable YouTube's **native PiP**. More options are in YouTube Settings - General.
 
-4. **YTUHD:** unlock VP9 codec and in effect, enables video quality of 2K and 4K. You can enable/disable YTUHD in YouTube Settings - Video quality preferences.
-
 <details>
   <summary>And many more...!</summary>
 
-5. **YTClassicVideoQuality:** Since YouTube v16.xx, changing video quality requires an extra step. YTClassicVideoQuality brings back the old video quality selector, which is more user-friendly than the new one.
+4. **YTClassicVideoQuality:** Since YouTube v16.xx, changing video quality requires an extra step. YTClassicVideoQuality brings back the old video quality selector, which is more user-friendly than the new one.
 
-6. **YTNoHoverCards:** This tweak offers the option to enable or disable the annoying suggested videos that appear at the end of YouTube videos.
+5. **YTNoHoverCards:** This tweak offers the option to enable or disable the annoying suggested videos that appear at the end of YouTube videos.
 
-7. **YouRememberCaption:** YouRememberCaption makes YouTube remember your video caption setting (if not already).
+6. **YouRememberCaption:** YouRememberCaption makes YouTube remember your video caption setting (if not already).
 
-8. **NoYTPremium:** NoYTPremium removes YouTube Premium upsells, preventing the ads and promotions for YouTube Premium from appearing.
+7. **NoYTPremium:** NoYTPremium removes YouTube Premium upsells, preventing the ads and promotions for YouTube Premium from appearing.
 
-9. **YTSpeed:** YTSpeed adds additional playback speed options of 2.25x, 2.5x, 2.75x, 3x and more to the YouTube app, providing more flexibility in video playback speed.
+8. **YTSpeed:** YTSpeed adds additional playback speed options of 2.25x, 2.5x, 2.75x, 3x and more to the YouTube app, providing more flexibility in video playback speed.
 
-10. **YTMiniplayerEnabler:** YTMiniplayerEnabler enables the Miniplayer feature for all YouTube videos.
+9. **YTMiniplayerEnabler:** YTMiniplayerEnabler enables the Miniplayer feature for all YouTube videos.
 
-11. **DontEatMyContent:** This tweak prevents the notch or Dynamic Island from obstructing 2:1 video content on YouTube, ensuring a better viewing experience.
+10. **DontEatMyContent:** This tweak prevents the notch or Dynamic Island from obstructing 2:1 video content on YouTube, ensuring a better viewing experience.
 
-12. **YTABConfig:** This tweak gives users control over YouTube's A/B testing flags, allowing them to enable or disable experimental features.
+11. **YTABConfig:** This tweak gives users control over YouTube's A/B testing flags, allowing them to enable or disable experimental features.
 
-13. **YouMute:** YouMute provides a button to mute YouTube videos in the video player, offering a convenient way to toggle the audio on and off.
+12. **YouMute:** YouMute provides a button to mute YouTube videos in the video player, offering a convenient way to toggle the audio on and off.
 
-14. **YouQuality:** YouQuality provides a button to change the video quality of YouTube videos in the video player, allowing quick access to different quality options.
+13. **YouQuality:** YouQuality provides a button to change the video quality of YouTube videos in the video player, allowing quick access to different quality options.
 
-15. **YouTimeStamp:** YouTimeStamp provides a button to copy the video url with the timestamp of whatever part of the video you are currently on.
+14. **YouTimeStamp:** YouTimeStamp provides a button to copy the video url with the timestamp of whatever part of the video you are currently on.
 
-16. **YTVideoOverlay:** YTVideoOverlay adds buttons to overlay the video, providing quick access to features like captions, speed control, and quality settings.
+15. **YTVideoOverlay:** YTVideoOverlay adds buttons to overlay the video, providing quick access to features like captions, speed control, and quality settings.
 
-17. **NotificationsTab:** This tweak recreates the Notifications Tab that was removed from the YouTube App back in 2020, also the tweak includes customization for the tab if you are feeling nostalgic.
+16. **NotificationsTab:** This tweak recreates the Notifications Tab that was removed from the YouTube App back in 2020, also the tweak includes customization for the tab if you are feeling nostalgic.
 
-18. **YTAppVersionSpoofer:** This tweak allows users to spoof the version of the YouTube app they are using, this is designed to spoof to older YouTube App versions. This can be useful for bypassing certain version checks or retaining features that may have been removed/disabled in newer updates. **<-- uYouEnhanced Exclusive Feature (subject to change)**
+17. **YTAppVersionSpoofer:** This tweak allows users to spoof the version of the YouTube app they are using, this is designed to spoof to older YouTube App versions. This can be useful for bypassing certain version checks or retaining features that may have been removed/disabled in newer updates. **<-- uYouEnhanced Exclusive Feature (subject to change)**
 
-19. **LowContrastMode:** LowContrastMode is a tweak that allows users to darken the text in the YouTube app, making it easier to read. which sadly suffers from incompatibility issues and doesn't work right now as of March 19th 2025. **<-- uYouEnhanced Exclusive Feature (subject to change)**
+18. **LowContrastMode:** LowContrastMode is a tweak that allows users to darken the text in the YouTube app, making it easier to read. which sadly suffers from incompatibility issues and doesn't work right now as of March 19th 2025. **<-- uYouEnhanced Exclusive Feature (subject to change)**
 
 </details>
 
@@ -323,7 +321,6 @@ And thanks to the developers qnblackcat, PoomSmart & other  allowing me to expan
 | **DontEatMyContent** | [therealFoxster](https://github.com/therealFoxster) | 1.1.8 | [✔︎](https://github.com/therealFoxster/DontEatMyContent) |
 | **YTSpeed** | [Lyvendia](https://github.com/Lyvendia) | 1.0.1 | [✔︎](https://github.com/Lyvendia/YTSpeed) |
 | **Alderis Color Picker** | [HASHBANG Productions](https://github.com/hbang) | 1.2 | [✔︎](https://github.com/hbang/Alderis) |
-| **YTUHD** | [PoomSmart](https://twitter.com/poomsmart) | 1.6.0 | [✔︎](https://github.com/PoomSmart/YTUHD) |
 | **YouLoop** | [bhackel](https://github.com/bhackel) | 1.0.0 | [✔︎](https://github.com/bhackel/YouLoop) |
 | **YouMute** | [PoomSmart](https://twitter.com/poomsmart) | 1.2.3 | [✔︎](https://github.com/PoomSmart/YouMute) |
 | **YouPiP** | [PoomSmart](https://twitter.com/poomsmart) | 1.12.7 | [✔︎](https://github.com/PoomSmart/YouPiP) |
