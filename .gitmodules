@@ -74,7 +74,6 @@
 [submodule "Tweaks/YTIcons"]
     path = Tweaks/YTIcons
     url = https://github.com/PoomSmart/YTIcons.git
-
 [submodule "Tweaks/YTVideoOverlay"]
     path = Tweaks/YTVideoOverlay
     url = https://github.com/PoomSmart/YTVideoOverlay.git
